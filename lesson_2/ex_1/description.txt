@@ -1,0 +1,3 @@
+git
+2_ проекты для нашей группы
+https://git.powercode.academy/kirill.b/2_learngit  адресс проекта
